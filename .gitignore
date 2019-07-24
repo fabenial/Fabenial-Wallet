@@ -1,0 +1,7 @@
+bin/
+build/
+/build-*
+/.vs
+/linux
+/src/*.user
+/macOS
